@@ -1,0 +1,8 @@
+Para criar o meu primeiro repertório eu preciso enviar este arquivo ao Github.
+Como fazer isso?
+
+Primeiro tenho que adicionar essa pag ao stage com o comando: git add .
+Depois tenho que commitar esse arquivo com o comando: git commit -m "mensagem de atualização a passar"
+Então, por ultimo mas não menos importante, para mandar para o Github usar o comando: git push origin main
+E Voilà.
+Só continuar organizando meus arquivos.
